@@ -17,4 +17,4 @@ var findErrorNums = function (nums) {
 
     return [dup, missing];
 };
-console.log([1, 2, 2, 4]);
+console.log(findErrorNums([1, 2, 2, 4]));
